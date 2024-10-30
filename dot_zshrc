@@ -123,3 +123,4 @@ export PATH="$HOME/.bin:$PATH"
 
 # Require pip to run in venv only
 export PIP_REQUIRE_VIRTUALENV=true
+
