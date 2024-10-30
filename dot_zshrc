@@ -120,3 +120,6 @@ export NVM_DIR="$HOME/.nvm"
 
 # Add bin folder to PATH
 export PATH="$HOME/.bin:$PATH"
+
+# Require pip to run in venv only
+export PIP_REQUIRE_VIRTUALENV=true
